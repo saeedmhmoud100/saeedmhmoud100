@@ -1,9 +1,22 @@
+<!--[![MasterHead](https://i.ytimg.com/vi/kxzg_QXrV_k/maxresdefault.jpg)] (url link) -->
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 
+<div id="badges">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/saeed-mahmoud100/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://wa.me/+201272260394">
+      <img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
+    </a>
+   </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saeedmhmoud100&label=Profile%20views&color=0e75b6&style=flat" alt="saeedmhmoud100" /> </p>
+
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedmhmoud100&label=Profile%20views&color=0e75b6&style=flat" alt="saeedmhmoud100" /> </p>
 
 - 💬 Ask me about **JS, React, Python, Django**
 
@@ -26,5 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedmhmoud100&show_icons=true&locale=en" alt="saeedmhmoud100" /></p>
 <!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeedmhmoud100https://github-readme-streak-stats.herokuapp.com/?user=saeedmhmoud100" alt="saeedmhmoud100" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeedmhmoud100" alt="GitHub Streak" /></p>
 -->
