@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://i.ytimg.com/vi/kxzg_QXrV_k/maxresdefault.jpg)] (url link) -->
 
-<h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
-<h3 align="center">A passionate full-stack developer from Egypt</h3>
+<h1 align="center" style="color: black;">Hi 👋, I'm Ahmed Mahmoud</h1>
+<h3 align="center" style="color: black;">A passionate full-stack developer from Egypt</h3>
 
 <div id="badges">
   <p align="center">
@@ -12,12 +12,21 @@
       <img src="https://img.shields.io/badge/Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
     </a>
    </p>
+  
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=saeedmhmoud100&label=Profile%20views&color=0e75b6&style=flat" alt="saeedmhmoud100" /> </p>
 
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+<!--
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy-kappa.vercel.app/?username=saeedmhmoud100"
+      alt="saeedmhmoud100"
+  /></a>
+</p> -->
 
 - 💬 Ask me about **JS, React, Python, Django**
 
